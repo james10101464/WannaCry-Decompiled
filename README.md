@@ -51,7 +51,7 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 * STC telecom ([saudia arabia](https://twitter.com/iPhone_Supp/status/863735059819442177), [more](https://twitter.com/mhooh300/status/863734116142985216), [more](https://twitter.com/bynfck/status/863734011188854784))
 * [All ATMs in india closed](http://newsable.asianetnews.tv/india/over-2-lakh-atms-in-the-country-to-remain-closed-to-deal-with-cyberattack)
 * More at https://en.wikipedia.org/wiki/WannaCry_cyber_attack#List_of_affected_organizations they seem to be cataloguing the infections faster/better.
-
+* Roblox:devs executor #not documented (secret breach in the remote roblox servers)
 # Malware samples
 
 * hxxps://www.hybrid-analysis.com/sample/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa?environmentId=100
